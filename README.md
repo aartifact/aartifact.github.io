@@ -1,2 +1,4 @@
 # aartifact.github.io
-Webpage describing the various projects undertaken as part of this effort.
+This page provides an overview of a [research effort on the topic of usability and accessibility of formal modeling and verification software](https://aartifact.org), including links to software prototypes/frameworks and publications related to this work.
+
+The effort investigated, prototyped, and evaluated (within the classroom and for domain-specific use cases) features and techniques that could improve the usability and accessibility of formal modeling and verification software tools and services. It included the development of variants of a verification system called Aartifact, focusing on the use of heuristic algorithms, fact databases, interactive interfaces, and browser compatibility. Related and/or interoperable frameworks for visualization of mathematical concepts and mathematical content management and presentation were also developed as part of this work and peripheral efforts.
